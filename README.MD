@@ -34,10 +34,3 @@ Este é um pequeno projeto em **Vanilla JavaScript, HTML e CSS** que permite bus
 
 > ⚠️ **Importante:** Nunca suba sua chave real no GitHub. Se quiser manter o projeto público, deixe a chave falsa no repositório e use a sua localmente.
 
----
-
-## 🔹 Como executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/weather-app.git
